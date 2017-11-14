@@ -35,10 +35,10 @@ While there's no absolute classification of what defines performant code, we do 
 
 ### Respond
 
-If your app responds to a user action in under 100ms, the user percieves the response as immediate. This applies to tappable elements, but not 
+If your app responds to a user action in under 100ms, the user percieves the response as immediate. This applies to tappable elements, but not when 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzIwNjQ1MzZdfQ==
+eyJoaXN0b3J5IjpbNDE1NjM5Mzk4XX0=
 -->
