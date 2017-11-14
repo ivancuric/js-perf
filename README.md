@@ -89,8 +89,8 @@ JavaScript is not pre-compiled. It arrives as readable code in your browser whic
 
 That code first needs to be parsed — read and turned into an computer-indexable structure that can be used for compiling.
 
-It then gets compiled into bytecode and finally machine code, before it can be executed by your com
+It then gets compiled into bytecode and finally machine code, before it can be executed by your device.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjE0NDQzNCwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbLTU4MjcyMjYxLDM1MjIzNTU5MywtNzY5NT
+E1NDJdfQ==
 -->
