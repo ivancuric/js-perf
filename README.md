@@ -152,7 +152,8 @@ Along that, you are probably using the `babel-polyfill` package and `whatwg-fetc
 
 The point is, you add almost 100 kilobytes to your JS bundle, which has not only a huge filesize, but also a huge parsing and executing cost.
 
+Why pun
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODI5MTI3NiwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbNDQ1MDQ0MTYxLDM1MjIzNTU5MywtNzY5NT
+E1NDJdfQ==
 -->
