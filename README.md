@@ -152,8 +152,8 @@ Along that, you are probably using the `babel-polyfill` package and `whatwg-fetc
 
 The point is, you add almost 100 kilobytes to your JS bundle, which has not only a huge filesize, but also a huge parsing and executing cost, in order to support older browsers.
 
-There's no point in punishing people who are using modern browsers though. An approach I use, and which Philip Walton covered in [this article](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/) is to create two separate bundles and load them conditionally. Babel makes this easy with bab
+There's no point in punishing people who are using modern browsers though. An approach I use, and which Philip Walton covered in [this article](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/) is to create two separate bundles and load them conditionally. Babel makes this easy with babel-preset-env
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE0NzQzODUsMzUyMjM1NTkzLC03Nj
-k1MTU0Ml19
+eyJoaXN0b3J5IjpbLTk1OTk0NTkyMCwzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
