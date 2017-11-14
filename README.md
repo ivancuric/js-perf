@@ -105,9 +105,11 @@ There are ways to mitigate this, such as using service workers to do jobs in the
 
 What you can do however is to avoid using JS animation frameworks for everything and [read up on what triggers paints and layouts](https://csstriggers.com/). Use the libraries only when there is absolutely no way to implement the animation using regular CSS transitions and animations.
 
-Even though they may be using CSS transitions and compositing, they are still running in JS, on the main thread, and you need to make sure that all your JS will be done executing in <8ms per frame in order to keep the animations smooth.
+Even though they may be using CSS transitions and compositing, they are still running in JS, on the main thread. You need to make sure that all your JS will be done executing in <8ms per frame in order to keep the animations smooth.
 
-CSS animations and transitions on the other hand are running off the main thread — on the GPU if implemented performantly, meaning without causing relayouts/reflows.
+CSS animations and transitions on the other hand are running off the main thread — on the GPU if implemented performantly, without causing relayouts/reflows.
+
+Considering that most animations are running either during loading or user interaction, this can give your web apps the much-needed room to breathe.
 
 
 
@@ -115,6 +117,6 @@ CSS animations and transitions on the other hand are running off the main thread
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE2MjgxMjksMzUyMjM1NTkzLC03Nj
-k1MTU0Ml19
+eyJoaXN0b3J5IjpbNzAwMDc1NzI5LDM1MjIzNTU5MywtNzY5NT
+E1NDJdfQ==
 -->
