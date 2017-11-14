@@ -4,7 +4,7 @@ Oh boy, this is a big one. Lots of stuff to cover, across a wide and wildly chan
 
 But before we dive into specifics, let's dive a bit deeper and get a broader understanding of the issue by answering the following: What is considered as performant JavaScript and how does it fit into the broader scope web performance metrics?
 
-## Setting the target
+## Setting the stage
 
 First of all, let's get the following out of the way; If you're testing exclusively on your desktop device, you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your  users.
 
@@ -24,7 +24,8 @@ Ouch. While this image covers the parse and build time of the JS (more on that l
 
 To quote Bruce Lawson, it['s the World-Wide Web, not the Wealthy Western Web](https://vimeo.com/194968584). So, your target for web performance is a device that's **~25x slower** than your MacBook or iPhone. Let that sink in for a bit. But it gets worse.
 
-## What is performant JS code exactly?
+
+## What exactly is performant JS code?
 
 Now that we know what our target platform is, we can answer the next question: what _is_ performant JS code? 
 
@@ -58,11 +59,13 @@ Now that we know the metrics, [let's have a look at some of the statistics](http
  - 77%of mobile sites take longer than 10 seconds to load on 3G networks
  - 19 seconds is the average load time for mobile sites on 3G networks
 
+Feeling depressed? Angry? Good. Let's get to work.
+
 
 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDA4Mjk5M119
+eyJoaXN0b3J5IjpbLTExNzUwNzczODJdfQ==
 -->
