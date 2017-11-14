@@ -89,6 +89,8 @@ JavaScript is not pre-compiled. It arrives (via a relatively slow network) as re
 
 That code first needs to be parsed, that is, read and turned into an computer-indexable structure that can be used for compiling. It then gets compiled into bytecode and finally machine code, before it can be executed by your device / browser.
 
+Another _very_ important thing to mention is that JavaScript is si
+
 So there's all this work that needs to be done before your JS starts working. Parsing and compiling takes up to 50% of the total time of JS execution in Chrome's V8 engine.
 
 ![enter image description here](https://cdn-images-1.medium.com/max/2000/0*M94-AavlZjGoudZG.)
@@ -97,8 +99,8 @@ There are two things I want you to take away from this section.
 1. While not neccessarily linearly, JS parse time scales with the bundle size. The less JS you ship, the better.
 2. Every JS framework you use is another level of abstraction (unless it's a precompiled one, like [Svelte](https://github.com/sveltejs/svelte)). Not only will it increase your bundle size, but also slow down your code.
 
-There are ways to mitigate this, such as 
+There are ways to mitigate this, such as using service workers to do j
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzM2Mzg1MSwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbLTE2MTUwNTk1NjUsMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
