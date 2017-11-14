@@ -77,11 +77,11 @@ But what about the actual work that your code does aside from just booting up th
 
 Before you dive into optimizing your code consider what you are building. Are you building a framework or a VDOM library? Does your code need to do thousands of operations per second? Are you doing a time-critical library for handling user input and animations? If not, you may want to shift your focus somewhere else.
 
-It's not that writing performant code doesn't matter, but it usually makes little to no impact in the grand scheme of things, especially when considering microoptimizations. So before you get into a Stack Overflow argument about `.map` vs `.forEach` vs `for` loops, comparing results from JSperf.com, make sure to see the forest for the trees. 50k ops/s might sound 50× better than 1k ops/s, but it doesn't make a difference in most cases. 
+It's not that writing performant code doesn't matter, but it usually makes little to no impact in the grand scheme of things, especially when considering microoptimizations. So before you get into a Stack Overflow argument about `.map` vs `.forEach` vs `for` loops by comparing results from JSperf.com, make sure to see the forest for the trees. 50k ops/s might sound 50× better than 1k ops/s on paper, but it doesn't make a difference in most cases. 
 
 ## Parsing, compiling and executing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjA4MTQ4N119
+eyJoaXN0b3J5IjpbMTIzNDIzMzY1MV19
 -->
