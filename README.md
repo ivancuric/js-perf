@@ -57,7 +57,6 @@ Now that we know the metrics, [let's have a look at some of the statistics](http
  - 1 out of 2 people expect a page to load in less than 2 seconds
  - 77%of mobile sites take longer than 10 seconds to load on 3G networks
  - 19 seconds is the average load time for mobile sites on 3G networks
- - 
 
 
 
@@ -65,5 +64,5 @@ Now that we know the metrics, [let's have a look at some of the statistics](http
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDQ0NDY3OF19
+eyJoaXN0b3J5IjpbLTQ1NDA4Mjk5M119
 -->
