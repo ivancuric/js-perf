@@ -140,8 +140,12 @@ new webpack.optimize.CommonsChunkPlugin({
   name: 'runtime',
 }),
 ```
-It will strip out the runtime from all your other chunks into its own file, in this case named `runtime.js`. Just make sure to load it before your main JS bundle.
+It will strip out the runtime from all your other chunks into its own file, in this case named `runtime.js`. Just make sure to load it before your main JS bundle, eg:
+```html
+<script src="runtime.js">
+<script src="main-bundle.js">
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDg4MDkxOCwzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbLTg4OTA3NTU0MywzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
