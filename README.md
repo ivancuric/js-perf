@@ -150,8 +150,8 @@ Then there's the topic of transpiled code and polyfills. If you are writing mode
 
 Along that, you are probably using the `babel-polyfill` package and `whatwg-fetch` to patch up missing features in older browsers. Then, if you're writing code using `async/await`, you also transpile it using generators need to include the `regenerator-runtime`...
 
-The point is, you add almost 100 kilobytes to your JS bundle, which has not only a huge
+The point is, you add almost 100 kilobytes to your JS bundle, which has not only a huge filesize, bu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMzNzE4ODUsMzUyMjM1NTkzLC03Nj
-k1MTU0Ml19
+eyJoaXN0b3J5IjpbMTU5MzQzMzUzMywzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
