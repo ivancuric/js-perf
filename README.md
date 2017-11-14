@@ -16,8 +16,12 @@ Testing in Chrome dev tools' device mode isn't a valid substitute to testing on 
 
 Even if you are testing on real mobile devices, you're probably testing it on your brand spanking 600$ flagship phone. Thing is — that's not the device that your users have. The median device is something along the lines of a Moto G. Let's see how it stacks up.
 
+![enter image description here](https://rawgit.com/ivancuric/js-perf/master/Screen%20Shot%202017-11-14%20at%2015.58.55.png)
+
+
+
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTcwODU1OV19
+eyJoaXN0b3J5IjpbLTE4NDQyMTc5NTNdfQ==
 -->
