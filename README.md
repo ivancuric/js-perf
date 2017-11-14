@@ -6,7 +6,7 @@ But before we dive into specifics, let's dive a bit deeper and get a broader und
 
 ## Setting the target
 
-First of all, let's get the following out of the way. If you're testing exclusively on your desktop device (you are testing, right?), you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your  users.
+First of all, let's get the following out of the way; If you're testing exclusively on your desktop device, you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your  users.
 
 ![enter image description here](https://i.imgur.com/6XtNnds.png)
 
@@ -44,5 +44,5 @@ On a 60Hz monitor, we want to target a constant 60 FPS mark when animating and s
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0ODYxMDQ1XX0=
+eyJoaXN0b3J5IjpbLTExODYwMDMyNzFdfQ==
 -->
