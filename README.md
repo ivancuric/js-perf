@@ -14,10 +14,10 @@ This trend will only continue to grow, as the emerging market's preferred gatewa
 
 Testing in Chrome dev tools' device mode isn't a valid substitute to testing on a real mobile device. Using CPU and network throttling helps, but it's a fundamentally different beast. Test on real devices.
 
-Even if you are testing on real mobile devices, you're probably testing it on your brand spanking 600$ flagship phone. Thing is — that's not the device that your
+Even if you are testing on real mobile devices, you're probably testing it on your brand spanking 600$ flagship phone. Thing is — that's not the device that your users have
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDM0ODc2MF19
+eyJoaXN0b3J5IjpbMTAwNzE4NzQ0MF19
 -->
