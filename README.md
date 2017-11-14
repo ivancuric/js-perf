@@ -54,7 +54,7 @@ You should target a page load in under 1000ms. Anything over, and your users sta
 
 ![enter image description here](https://raw.githubusercontent.com/ivancuric/js-perf/master/1000ms.png)
 
-In practice, aim for the 5s time to interactive mark. It's 
+In practice, aim for the 5s time to interactive mark. It's what Chrome uses in their [Lighthouse audit](https://developers.google.com/web/tools/lighthouse/audits/time-to-interactive).
 
 Now that we know the metrics, [let's have a look at some of the statistics](https://storage.googleapis.com/doubleclick-prod/documents/The_Need_for_Mobile_Speed_-_FINAL.pdf):
 
@@ -103,6 +103,6 @@ There are two things I want you to take away from this section.
 
 There are ways to mitigate this, such as using service workers to do j
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzgyNTc0MSwzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbLTk2OTI4MDA5MCwzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
