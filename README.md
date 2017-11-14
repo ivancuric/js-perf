@@ -103,12 +103,14 @@ There are two things I want you to take away from this section.
 
 There are ways to mitigate this, such as using service workers to do jobs in the background and on another thread, using asm.js to write code that is more easily compiled to machine instructions, but that's a whole another topic.
 
-What you can do however is to avoid using JS animation frameworks for everything. Use them only when there is absolutely no other way to implement 
+What you can do however is to avoid using JS animation frameworks for everything and [read up on what triggers paints and layouts](https://csstriggers.com/). Use them only when there is absolutely no way to implement the animation using regular CSS transitions and animations.
+
+
 
 ## Bundle sizes are everything
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDQzNzI1NiwzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbLTg5MjQ1NzE2MSwzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
