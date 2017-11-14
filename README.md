@@ -89,8 +89,8 @@ JavaScript is not pre-compiled. It arrives (via a relatively slow network) as re
 
 That code first needs to be parsed, that is, read and turned into an computer-indexable structure that can be used for compiling. It then gets compiled into bytecode and finally machine code, before it can be executed by your device.
 
-So there's all this work that needs to be done beforehand. How mu
+So there's all this work that needs to be done beforehand. How much does it 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzI0MjIxOCwzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbLTY5MzQxMTI2MywzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
