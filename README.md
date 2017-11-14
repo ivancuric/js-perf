@@ -46,7 +46,7 @@ On a 60Hz monitor, we want to target a constant 60 frames per second when animat
 
 ### Idle work
 
-If you have an expensive, continuously running task, make sure to slice it into smaller chunks, to allow the main thread to react to user inputs. You should not have a task that delays user input for more than 50ms.
+If you have an expensive, continuously running task, make sure to slice it into smaller chunks to allow the main thread to react to user inputs. You should not have a task that delays user input for more than 50ms.
 
 ### Load
 
@@ -74,5 +74,5 @@ Feeling depressed? Angry? Good. Let's get to work.
 
 You might have noticed that the bottleneck is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjUzMjQ0Nl19
+eyJoaXN0b3J5IjpbMjIxMTgxNTk4XX0=
 -->
