@@ -59,7 +59,7 @@ Now that we know the metrics, [let's have a look at some of the statistics](http
  - 77%of mobile sites take longer than 10 seconds to load on 3G networks
  - 19 seconds is the average load time for mobile sites on 3G networks
 
-[And a bit more](https://medium.com/reloading/javascript-start-up-performance-69200f43b201):
+[And a bit more, courtesy of Addy Osmani](https://medium.com/reloading/javascript-start-up-performance-69200f43b201):
 
 - Apps became interactive in 8 seconds on desktop (using cable) and 16 seconds on mobile (Moto G4 over 3G)
 - At the median, developers shipped 410KB of gzipped JS for their pages
@@ -72,5 +72,5 @@ Feeling depressed? Angry? Good. Let's get to work.
 
 You might have noticed that the bottleneck is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDUyNjQzOV19
+eyJoaXN0b3J5IjpbMTQ3MjA5MzAzNV19
 -->
