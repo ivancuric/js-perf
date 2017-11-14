@@ -37,10 +37,10 @@ While there's no absolute classification of what defines performant code, we do 
 
 If your app responds to a user action in under 100ms, the user percieves the response as immediate. This applies to tappable elements, but not when scrolling or dragging.
 
-## 
+### Animate
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwMzI0ODQ5XX0=
+eyJoaXN0b3J5IjpbNzI3ODI3ODYxXX0=
 -->
