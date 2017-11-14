@@ -167,8 +167,8 @@ A dirty, but efficient way is to place the following in an inline script:
 })();
 ```
 
-If the browser isn't able to evaluate an `async` function, we assume that it's an old browser and just ship the huge and sl
+If the browser isn't able to evaluate an `async` function, we assume that it's an old browser and just ship the huge and slow bundl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjEwNjgyOTIsMzUyMjM1NTkzLC03Nj
-k1MTU0Ml19
+eyJoaXN0b3J5IjpbMTgwMDE5MTk1MywzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
