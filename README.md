@@ -173,12 +173,12 @@ If the browser isn't able to evaluate an `async` function, we assume that it's a
 
 ## Closing words
 
-What I would like you to take out from this article is that JS is expensive and should be used sparingly. Testing is often done 
+What I would like you to take out from this article is that JS is expensive and should be used sparingly. Testing is often done out of context
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So it takes a *lot* for me to get to this point. But seriously folks, time to throw out your frameworks and see how fast browser can be.</p>&mdash; Alex Russell (@slightlylate) <a href="https://twitter.com/slightlylate/status/776498573332451328?ref_src=twsrc%5Etfw">September 15, 2016</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Mzc0MzI0LDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbLTE0NjIzMTE0MjgsMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
