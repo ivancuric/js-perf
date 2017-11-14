@@ -53,7 +53,7 @@ You should target a page load in under 1000ms. Anything over, and your users sta
 
 Now that we know the metrics, [let's have a look at some of the statistics](https://storage.googleapis.com/doubleclick-prod/documents/The_Need_for_Mobile_Speed_-_FINAL.pdf):
 
-![enter image description here](https://raw.githubusercontent.com/ivancuric/js-perf/master/stat1.png)
+ - 53% of visits are abandoned if a mobile site takes more than three seconds to load
 
 
 
@@ -61,5 +61,5 @@ Now that we know the metrics, [let's have a look at some of the statistics](http
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3ODgyMTExXX0=
+eyJoaXN0b3J5IjpbLTYyMjAyMDMzMl19
 -->
