@@ -10,10 +10,10 @@ First of all, let's get the following out of the way. If you're focusing exclusi
 
 ![enter image description here](https://i.imgur.com/6XtNnds.png)
 
-And
+And let
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTczNDMzNzFdfQ==
+eyJoaXN0b3J5IjpbNTU1MTE3OTM2XX0=
 -->
