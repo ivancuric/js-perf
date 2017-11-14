@@ -59,6 +59,8 @@ Now that we know the metrics, [let's have a look at some of the statistics](http
  - 77%of mobile sites take longer than 10 seconds to load on 3G networks
  - 19 seconds is the average load time for mobile sites on 3G networks
 
+[And a bit more](https://medium.com/reloading/javascript-start-up-performance-69200f43b201):
+
 Feeling depressed? Angry? Good. Let's get to work.
 
 
@@ -67,5 +69,5 @@ Feeling depressed? Angry? Good. Let's get to work.
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjc0OTQ0Nl19
+eyJoaXN0b3J5IjpbLTEwMDg3ODg2Nl19
 -->
