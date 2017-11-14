@@ -146,8 +146,8 @@ It will strip out the runtime from all your other chunks into its own file, in t
 <script src="main-bundle.js">
 ```
 
-Then there's the topci
+Then there's the topic of transpile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Mzg3NjM2LDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbMTY4MTk1MzA2NywzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
