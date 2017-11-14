@@ -111,13 +111,13 @@ CSS animations and transitions on the other hand are running off the main thread
 
 Considering that most animations are running either during loading or user interaction, this can give your web apps the much-needed room to breathe.
 
-The [Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API) is an upcoming feature set that will allow you to do performant JS animations off the main thread, but for now, stick to CSS transtitions and techniques like FLIP.
+The [Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API) is an upcoming feature set that will allow you to do performant JS animations off the main thread, but for now, stick to CSS transtitions and techniques like [FLIP](https://aerotwist.com/blog/flip-your-animations/).
 
 
 ## Bundle sizes are everything
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjcxMjQxMiwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbLTIwODk4ODY4NzMsMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
