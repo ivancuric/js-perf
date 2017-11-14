@@ -6,7 +6,7 @@ Let's start by answering the following: What is considered as performant JavaScr
 
 ## What is performant JS?
 
-First of all, let's get the following out of the way. If you're testing exclusively on your desktop device (you are testing, right?), you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your potential users. This trend will only continue to grow, as the emerging market's 
+First of all, let's get the following out of the way. If you're testing exclusively on your desktop device (you are testing, right?), you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your potential users. This trend will only continue to grow, as the emerging market's preferred gateway to the web is a sub-100$ Android device. The era of the desktop as the 
 
 ![enter image description here](https://i.imgur.com/6XtNnds.png)
 
@@ -17,5 +17,5 @@ And even if you are testing on real mobile devices, you're probably testing it o
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExODM1NjkxXX0=
+eyJoaXN0b3J5IjpbLTMxNTQ2MDc5Nl19
 -->
