@@ -22,7 +22,7 @@ Let's see how it stacks up when [parsing an average JS bundle](https://docs.goog
 
 ![enter image description here](https://rawgit.com/ivancuric/js-perf/master/Screen%20Shot%202017-11-14%20at%2015.58.55.png)
 
-Ouch. While this image covers the parse and build time of the JS (more on that later) and not general performance, it's strongly correallated.
+Ouch.  While this image only covers the parse and compile time of the JS (more on that later) and not general performance, it's strongly correallated and can be treated as an indicator of general JS perf
 
 To quote Bruce Lawson, it['s the World-Wide Web, not the Wealthy Western Web](https://vimeo.com/194968584). So, your target for web performance is a device that's **~25x slower** than your MacBook or iPhone. Let that sink in for a bit. But it gets worse.
 
@@ -83,5 +83,5 @@ It's not that writing performant code doesn't matter, but it usually makes littl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1Nzg3MDM3XX0=
+eyJoaXN0b3J5IjpbNzEyMTA5NjA4XX0=
 -->
