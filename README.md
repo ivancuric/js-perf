@@ -77,9 +77,9 @@ You might have noticed that the main bottleneck is the time it takes to load up 
 
 But what about the actual work that your code does aside from just booting up the website? There has to be some performance gains there, right?
 
-Before you dive into optimizing your code consider what you are building. Are you building a framework or a VDOM library? Does your code need to do thousands of operations per second? Are you doing a time-critical library for handling user input and animations? If not, you may want to shift your focus somewhere else.
+Before you dive into optimizing your code consider what you are building. Are you building a framework or a VDOM library? Does your code need to do thousands of operations per second? Are you doing a time-critical library for handling user input and/or animations? If not, you may want to shift your time and energy somewhere more impactful.
 
-It's not that writing performant code doesn't matter, but it usually makes little to no impact in the grand scheme of things, especially when considering microoptimizations. So before you get into a Stack Overflow argument about `.map` vs `.forEach` vs `for` loops by comparing results from JSperf.com, make sure to see the forest for the trees. 50k ops/s might sound 50× better than 1k ops/s on paper, but it won't make a difference in most cases. 
+It's not that writing performant code doesn't matter, but it usually makes little to no impact in the grand scheme of things, especially when talking about microoptimizations. So before you get into a Stack Overflow argument about `.map` vs `.forEach` vs `for` loops by comparing results from JSperf.com, make sure to see the forest for the trees. 50k ops/s might sound 50× better than 1k ops/s on paper, but it won't make a difference in most cases. 
 
 ## Parsing, compiling and executing
 
@@ -107,6 +107,6 @@ There are ways to mitigate this, such as using service workers to do jobs in the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMzY5NDU0LDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNjQ5MDc1MzksMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
