@@ -99,12 +99,14 @@ So there's all this work that needs to be done before your JS starts working. Pa
 
 There are two things I want you to take away from this section.
 1. While not neccessarily linearly, JS parse time scales with the bundle size. The less JS you ship, the better.
-2. Every JS framework (React, Vue, Angular, Preact...) you use is another level of abstraction (unless it's a precompiled one, like [Svelte](https://github.com/sveltejs/svelte)). Not only will it increase your bundle size, but also slow down your code.
+2. Every JS framework (React, Vue, Angular, Preact...) you use is another level of abstraction (unless it's a precompiled one, like [Svelte](https://github.com/sveltejs/svelte)). Not only will it increase your bundle size, but also slow down your code since you're not talking directly to the browser.
 
 There are ways to mitigate this, such as using service workers to do jobs in the background and on another thread, using asm.js to write code that is more easily compiled to machine instructions, but that's a whole other topic.
 
+## Bundle sizes are everything
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgxNDAyMzAsMzUyMjM1NTkzLC03Nj
-k1MTU0Ml19
+eyJoaXN0b3J5IjpbMTkwNjcyNzQ4MywzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
