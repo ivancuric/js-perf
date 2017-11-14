@@ -51,11 +51,11 @@ You should target a page load in under 1000ms. Anything over, and your users sta
 
 ![enter image description here](https://raw.githubusercontent.com/ivancuric/js-perf/master/1000ms.png)
 
-There's a whole lot of other metrics, and none of 
+There's a whole lot of other metrics, and none of them 
 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTQwMzc5MF19
+eyJoaXN0b3J5IjpbLTE4MzkzNDIzNzBdfQ==
 -->
