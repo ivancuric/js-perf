@@ -89,8 +89,10 @@ JavaScript is not pre-compiled. It arrives (via a relatively slow network) as re
 
 That code first needs to be parsed, that is, read and turned into an computer-indexable structure that can be used for compiling. It then gets compiled into bytecode and finally machine code, before it can be executed by your device / browser.
 
-So there's all this work that needs to be done before your JS starts working. It usually 
+So there's all this work that needs to be done before your JS starts working. Parsing and compiling takes up to 50% of the total time of JS execution in Chrome's V8 engine.
+
+![enter image description here](https://cdn-images-1.medium.com/max/2000/0*M94-AavlZjGoudZG.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzQzMTMyNCwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbNDQ4OTk3NDQzLDM1MjIzNTU5MywtNzY5NT
+E1NDJdfQ==
 -->
