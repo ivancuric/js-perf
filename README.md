@@ -32,10 +32,10 @@ While there's no absolute classification of what defines performant code, we do 
 
 ![enter image description here](https://raw.githubusercontent.com/ivancuric/js-perf/master/rail.png)
 
-
+In short, 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwMjM0MTcwXX0=
+eyJoaXN0b3J5IjpbLTY0NjMzMDE2MV19
 -->
