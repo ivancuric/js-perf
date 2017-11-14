@@ -146,8 +146,8 @@ It will strip out the runtime from all your other chunks into its own file, in t
 <script src="main-bundle.js">
 ```
 
-Then there's the topic of transpiled code and polyfills.
+Then there's the topic of transpiled code and polyfills. If you a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDQ4NzkwMywzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbLTE5NzQ5NTY5NjgsMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
