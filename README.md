@@ -128,9 +128,9 @@ Webpack 3 has _amazing_ features called [code splitting](https://webpack.js.org/
 
 You don't need to use frameworks, components and client side routing to gain the benefit of it either. Let's say that you have a complex piece of code that powers your `.mega-widget`, which can be on any number of pages. You can simply write:
 ```js
-if (document.querySelector('.mega-widget'
+if (document.querySelector('.mega-widget')
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjYxNTQ3NiwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbLTE2Mzg0OTAxOTUsMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
