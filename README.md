@@ -50,7 +50,7 @@ If you have an expensive, continuously running task, make sure to slice it into 
 
 ### Load
 
-You should target a page load in under 1000ms. Anything over, and your users start getting twitchy. This is a pretty difficult goal to reach on mobile devices as it relates to the page being interactive, not just having it painted. And realistically, it's even less:
+You should target a page load in under 1000ms. Anything over, and your users start getting twitchy. This is a pretty difficult goal to reach on mobile devices as it relates to the page being interactive, not just having it painted on screen and scrollable. In practice it's even less:
 
 ![enter image description here](https://raw.githubusercontent.com/ivancuric/js-perf/master/1000ms.png)
 
@@ -65,7 +65,6 @@ Now that we know the metrics, [let's have a look at some of the statistics](http
 
 - Apps became interactive in 8 seconds on desktop (using cable) and 16 seconds on mobile (Moto G4 over 3G)
 - At the median, developers shipped 410KB of gzipped JS for their pages
-- 
 
 Feeling depressed? Angry? Good. Let's get to work.
 
@@ -74,5 +73,5 @@ Feeling depressed? Angry? Good. Let's get to work.
 
 You might have noticed that the bottleneck is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMTgxNTk4XX0=
+eyJoaXN0b3J5IjpbNjA5NjIwODMzXX0=
 -->
