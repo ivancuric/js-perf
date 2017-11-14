@@ -6,10 +6,13 @@ Let's start by answering the following: What is considered as performant JavaScr
 
 ## What is performant JS?
 
-First of all, let's get the following out of the way. If you're testing exclusively on your desktop device, you're 
+First of all, let's get the following out of the way. If you're testing exclusively on your desktop device, you're developing for less than half 
+
+![enter image description here](https://i.imgur.com/6XtNnds.png)
+
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ0OTM0MTJdfQ==
+eyJoaXN0b3J5IjpbMTY3NjE5ODU4NF19
 -->
