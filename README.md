@@ -68,10 +68,9 @@ Now that we know the metrics, [let's have a look at some of the statistics](http
 Feeling depressed? Angry? Good. Let's get to work.
 
 
-
-
 ## Context is everything 
 
+You might have noticed that the bottleneck is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ0MDIxNzhdfQ==
+eyJoaXN0b3J5IjpbMTA5NDUyNjQzOV19
 -->
