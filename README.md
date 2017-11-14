@@ -120,8 +120,8 @@ Today it's all about bundles. Gone are the times of bower and dozens of `<script
 
 Now it's all about `npm install`-ing whatever shiny new toy you find on NPM, bundling them together with Webpack in a huge single 1mb JS file and hammering your users' browser to a crawl while capping off their data plans.
 
-But now, let's get on topic for a b
+E
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjIzNDU3OSwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbLTE1NTU1MDY3MDQsMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
