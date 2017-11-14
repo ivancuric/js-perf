@@ -47,10 +47,10 @@ If you have a continuously running task, make sure to slice it into smaller chun
 
 ### Load
 
-You should target a page load in under 1000ms. This is a pretty difficul 
+You should target a page load in under 1000ms. This is a pretty difficult goal to reach on mobile devices.
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU2NTk5MzldfQ==
+eyJoaXN0b3J5IjpbLTkwNDUwMDI0Nl19
 -->
