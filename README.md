@@ -40,11 +40,11 @@ If your app responds to a user action in under 100ms, the user percieves the res
 
 ### Animate
 
-On a 60Hz monitor, we want to target a constant 60 FPS mark when animating and scrolling. That results in around 16ms per frame. Out of that 16ms budget, you realistically have 8-10ms to do all the work, the rest is taken up by the browser internals and other variances.
+On a 60Hz monitor, we want to target a constant 60 frames per second when animating and scrolling. That results in around 16ms per frame. Out of that 16ms budget, you realistically have 8-10ms to do all the work, the rest is taken up by the browser internals and other variances.
 
 ### Idle work
 
-If you have a continuously running task, make sure to slice it into smaller chunks, to allow the main thread to react to user inputs. You should not have a task that delays user input for more than 50ms.
+If you have an expensive, continuously running task, make sure to slice it into smaller chunks, to allow the main thread to react to user inputs. You should not have a task that delays user input for more than 50ms.
 
 ### Load
 
@@ -67,5 +67,5 @@ Feeling depressed? Angry? Good. Let's get to work.
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUwNzczODJdfQ==
+eyJoaXN0b3J5IjpbMjAwNjc0OTQ0Nl19
 -->
