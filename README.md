@@ -14,7 +14,7 @@ This trend will only continue to grow, as the emerging market's preferred gatewa
 
 Testing in Chrome dev tools' device mode isn't a valid substitute to testing on a real  device. Using CPU and network throttling helps, but it's a fundamentally different beast. Test on real devices.
 
-Even if you are testing on real mobile devices, you're probably testing it on your brand spanking new 600$ flagship phone. The thing is, that's not the device that your users have. The median device is something along the lines of a Moto G1. A device with under 1GB of ram, and a very weak CPU and GPU. To quote Bruce Lawson, it['s the World-Wide Web, not the Wealthy Western Web](https://vimeo.com/194968584).
+Even if you are testing on real mobile devices, you're probably testing it on your brand spanking new 600$ flagship phone. The thing is, that's not the device that your users have. The median device is something along the lines of a Moto G1. A device with under 1GB of ram, and a very weak CPU and GPU.
 
 Let's see how it stacks up when [parsing an average JS bundle](https://docs.google.com/spreadsheets/d/1wHcNNQea28LhwQ_amFamT33d5woVrJfJy53Z1k6V090/edit?usp=sharing).
 
@@ -22,7 +22,7 @@ Let's see how it stacks up when [parsing an average JS bundle](https://docs.goog
 
 Ouch. While this image covers the parse and build time of the JS (more on that later) and not general performance, it's strongly correallated.
 
-So, your target for web performance is a device that's **~25x slower** than your MacBook or iPhone. Let that sink in for a bit. But it gets worse.
+To quote Bruce Lawson, it['s the World-Wide Web, not the Wealthy Western Web](https://vimeo.com/194968584). So, your target for web performance is a device that's **~25x slower** than your MacBook or iPhone. Let that sink in for a bit. But it gets worse.
 
 ## What is performant JS code?
 
@@ -37,5 +37,5 @@ While there's no absolute classification of what defines performant code, we do 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDY2MTMyMl19
+eyJoaXN0b3J5IjpbMzkyNjgxMTk4XX0=
 -->
