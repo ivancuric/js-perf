@@ -1,6 +1,6 @@
 # Shipping performant JS code to production
 
-Oh boy, this is a big one. Lots of stuff to cover, across a wide and wildly changing landscape. It's also a topic that covers everyone's favourite: The JS Framewok of the Month™.  I'll try to stick to the "Tools, not rules" mantra and keep the JS 
+Oh boy, this is a big one. Lots of stuff to cover, across a wide and wildly changing landscape. It's also a topic that covers everyone's favourite: The JS Framewok of the Month™.  I'll try to stick to the "Tools, not rules" mantra and keep the JS buzzwords to a minimum.
 
 But before we dive into specifics, let's dive a bit deeper and get a broader understanding of the issue by answering the following: What is considered as performant JavaScript and how does it fit into the broader web performance metrics?
 
@@ -29,5 +29,5 @@ Now that we know what our target platform is, let's define user
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ4Mjk3ODhdfQ==
+eyJoaXN0b3J5IjpbMTkwMDIxMjQ3Ml19
 -->
