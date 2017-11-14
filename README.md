@@ -4,7 +4,7 @@ Oh boy, this is a big one. Lots of stuff to cover, across a wide and wildly chan
 
 Let's start by answering the following: What is considered as performant JavaScript and how does it fit into the broader web performance metrics?
 
-## What is performant JS?
+## Setting the bar
 
 First of all, let's get the following out of the way. If you're testing exclusively on your desktop device (you are testing, right?), you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your potential users.
 
@@ -23,5 +23,5 @@ Ouch.
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUzMTIzMF19
+eyJoaXN0b3J5IjpbNTIwMjY1MTc2XX0=
 -->
