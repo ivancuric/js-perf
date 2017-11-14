@@ -93,8 +93,9 @@ So there's all this work that needs to be done before your JS starts working. Pa
 
 ![enter image description here](https://cdn-images-1.medium.com/max/2000/0*M94-AavlZjGoudZG.)
 
-There are two things I want you to take away from
+There are two things I want you to take away from this section.
+One
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDEwNzU5MiwzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbLTQzMTYxNTAwNSwzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
