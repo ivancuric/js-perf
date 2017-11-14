@@ -18,10 +18,10 @@ Even if you are testing on real mobile devices, you're probably testing it on yo
 
 ![enter image description here](https://rawgit.com/ivancuric/js-perf/master/Screen%20Shot%202017-11-14%20at%2015.58.55.png)
 
-Ouch. 
+Ouch. While this image covers the parse and build time of the JS (more on that later) and not general performance.
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2NDA4MDg4XX0=
+eyJoaXN0b3J5IjpbMTg0MDYxMzgyMV19
 -->
