@@ -85,8 +85,8 @@ Fundamentally, the problem of most non-performant JS is not running the code its
 
 We're talking about levels of abstraction here. The CPU in your computer runs machine code. Most programs you are running... Actually, considering the number of Electron apps these days... hmmm... For the sake of argument, let's say that most of the code you're running on your computer is in the compiled binary format. Meaning, all the OS-level abstractions aside, it runs natively on your hardware, no prep-work needed.
 
-JavaScript is not compiled
+JavaScript is not pre-compiled. It arrives as readable code in your browser which is, for all intents and purposes, the "OS" for your code.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0OTg2MDMzLDM1MjIzNTU5MywtNzY5NT
+eyJoaXN0b3J5IjpbNTg2ODIwMTY3LDM1MjIzNTU5MywtNzY5NT
 E1NDJdfQ==
 -->
