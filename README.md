@@ -6,14 +6,15 @@ Let's start by answering the following: What is considered as performant JavaScr
 
 ## What is performant JS?
 
-First of all, let's get the following out of the way. If you're focusing exclusively on your desktop device, you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your potential users.
+First of all, let's get the following out of the way. If you're testing exclusively on your desktop device (you are testing, right?), you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your potential users.
 
 ![enter image description here](https://i.imgur.com/6XtNnds.png)
 
-And even if you are, you're probably testing it on your 
+No, testing in chrome
+And even if you are testing on real mobile devices, you're probably testing it on your brand spanking 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTkzMjE0XX0=
+eyJoaXN0b3J5IjpbMTMxNjc4MjY0N119
 -->
