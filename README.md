@@ -71,7 +71,7 @@ Feeling sufficiently frustrated? Good. Let's get to work and fix the web. ✊
 
 ## Context is everything 
 
-You might have noticed that the main bottleneck is the time it takes to load up your website. Specifically, the JavaScript download, parse and compile time. There's no way around it but to load less JavaScript and load smarter.
+You might have noticed that the main bottleneck is the time it takes to load up your website. Specifically, the JavaScript download, parse, compile and execution time. There's no way around it but to load less JavaScript and load smarter.
 
 But what about the actual work that your code does aside from just booting up the website? There has to be some performance gains there, right?
 
@@ -79,9 +79,9 @@ Before you dive into optimizing your code consider what you are building. Are yo
 
 It's not that writing performant code doesn't matter, but it usually makes little to no impact in the grand scheme of things, especially when considering microoptimizations. So before you get into a Stack Overflow argument about `.map` vs `.forEach` vs `for` loops, comparing results from JSperf.com, make sure to see the forest for the trees. 50k ops/s might sound 50× better than 1k ops/s, but it doesn't make a difference in most cases. 
 
-## Parsing and compiling 
+## Parsing, compiling and executing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0OTcwNTgxXX0=
+eyJoaXN0b3J5IjpbMTM1NjA4MTQ4N119
 -->
