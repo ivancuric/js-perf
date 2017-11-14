@@ -92,7 +92,9 @@ That code first needs to be parsed, that is, read and turned into an computer-in
 So there's all this work that needs to be done before your JS starts working. Parsing and compiling takes up to 50% of the total time of JS execution in Chrome's V8 engine.
 
 ![enter image description here](https://cdn-images-1.medium.com/max/2000/0*M94-AavlZjGoudZG.)
+
+There are two things I want you to take away from
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4OTk3NDQzLDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbMTgyMDEwNzU5MiwzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
