@@ -126,8 +126,11 @@ When you are done pruning the weeds and shipping less JS, try shipping it _smart
 
 Webpack 3 has _amazing_ features called [code splitting](https://webpack.js.org/guides/code-splitting/) and [dynamic imports](https://webpack.js.org/guides/code-splitting/#dynamic-imports). Instead of bundling all your JS modules into a monolithic `app.js` bundle, it can automatically split the code using the `import()` syntax and load it asynchronously.
 
-You don't need to use frameworks, components and client side routing to gain the benefit of it either. Let's say that you have a complex piece of code that only needs to be run when `.mega-form` is 
+You don't need to use frameworks, components and client side routing to gain the benefit of it either. Let's say that you have a complex piece of code that powers your `.mega-widget`, which can be on any number of pages. You can simply write:
+```js
+if (document.queryS
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDgxMTIxMTksMzUyMjM1NTkzLC03Nj
-k1MTU0Ml19
+eyJoaXN0b3J5IjpbLTM4Mjk5MzkwNSwzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
