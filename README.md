@@ -77,7 +77,7 @@ But what about the actual work that your code does aside from just booting up th
 
 Before you dive into optimizing your code consider what you are building. Are you building a framework or a VDOM library? Does your JavaScript need to do thousands of operations per second? Are you doing a time-critical library for handling user input and animations? If not, you may want to shift your focus somewhere else.
 
-It's not that writing performant code doesn't matter, but that it's usually irrelevant in the grand scheme of things, especially when considering microoptimizations. You'll find tons of topics on Stack Overflow with people comparing ops/s of iterable
+It's not that writing performant code doesn't matter, but that it's usually irrelevant in the grand scheme of things, especially when considering microoptimizations. So before you get into a Stack Overflow argument about `.map` vs `.for
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA3MTg4MzRdfQ==
+eyJoaXN0b3J5IjpbLTQ2NDI0ODU3NF19
 -->
