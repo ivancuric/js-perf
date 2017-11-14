@@ -4,7 +4,7 @@ Oh boy, this is a big one. Lots of stuff to cover, across a wide and wildly chan
 
 Let's start by answering the following: What is considered as performant JavaScript and how does it fit into the broader web performance metrics?
 
-## It's a mobile world
+## Setting the target
 
 First of all, let's get the following out of the way. If you're testing exclusively on your desktop device (you are testing, right?), you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your  users.
 
@@ -18,10 +18,12 @@ Even if you are testing on real mobile devices, you're probably testing it on yo
 
 ![enter image description here](https://rawgit.com/ivancuric/js-perf/master/Screen%20Shot%202017-11-14%20at%2015.58.55.png)
 
-Ouch. While this image covers the parse and build time of the JS (more on that later) and not general performance.
+Ouch. While this image covers the parse and build time of the JS (more on that later) and not general performance, it's strongly correallated.
+
+So
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDYxMzgyMV19
+eyJoaXN0b3J5IjpbLTE0NDg4NTY4NjBdfQ==
 -->
