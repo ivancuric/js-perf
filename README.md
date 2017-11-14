@@ -167,8 +167,12 @@ A dirty, but efficient way is to place the following in an inline script:
 })();
 ```
 
-If the browser isn't able to evaluate an `async` function, we assume that it's an old browser and just ship the polyfilled bundle. Otherwise
+If the browser isn't able to evaluate an `async` function, we assume that it's an old browser and just ship the polyfilled bundle. Otherwise, the user gets the neat and modern variant.
+
+## Closing words
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDU2MDc0OSwzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbMTcyNzkwNjI0MiwzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
