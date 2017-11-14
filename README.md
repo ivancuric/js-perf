@@ -134,8 +134,8 @@ if (document.querySelector('.mega-widget')) {
 ```
 If your app finds the widget on the page, it will dynamically load the required supporting code. Otherwise, all's good.
 
-Also, Webpack needs its own runtime to work, and it injects it into all the .js files it generates. If you use the `commonChunks` plugin, you can use the 
+Also, Webpack needs its own runtime to work, and it injects it into all the .js files it generates. If you use the `commonChunks` plugin, you can use the following to e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MDcxMTM2LDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbLTE4NTY0NzUxODMsMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
