@@ -43,10 +43,14 @@ On a 60Hz monitor, we want to target a constant 60 FPS mark when animating and s
 
 ### Idle work
 
-If you have a continuously running task, make sure to slice it into smaller chunks, to allow the main thread to react to user inputs. You should  not have a task that 
+If you have a continuously running task, make sure to slice it into smaller chunks, to allow the main thread to react to user inputs. You should not have a task that delays user input for more than 50ms.
+
+### Load
+
+You should target 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2MDYwMTM5XX0=
+eyJoaXN0b3J5IjpbMTczMDYwMzY2NF19
 -->
