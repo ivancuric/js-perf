@@ -2,7 +2,7 @@
 
 Oh boy, this is a big one. Lots of stuff to cover, across a wide and wildly changing landscape. It's also a topic that covers everyone's favourite: The JS Framewok of the Month™. 
 
-But before we dive into et's start by answering the following: What is considered as performant JavaScript and how does it fit into the broader web performance metrics?
+But before we dive into specifics, let's dive a bit deeper and get a broader understanding of the issue by answering the following: What is considered as performant JavaScript and how does it fit into the broader web performance metrics?
 
 ## Setting the target
 
@@ -29,5 +29,5 @@ Now that we know what our target platform is, let's define user
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzExMTQ4Nl19
+eyJoaXN0b3J5IjpbLTE2MzE5MzczMDJdfQ==
 -->
