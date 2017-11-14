@@ -24,7 +24,7 @@ Ouch. While this image covers the parse and build time of the JS (more on that l
 
 To quote Bruce Lawson, it['s the World-Wide Web, not the Wealthy Western Web](https://vimeo.com/194968584). So, your target for web performance is a device that's **~25x slower** than your MacBook or iPhone. Let that sink in for a bit. But it gets worse.
 
-## What is performant JS code?
+## What is performant JS code exactly?
 
 Now that we know what our target platform is, we can answer the next question: what _is_ performant JS code? 
 
@@ -48,11 +48,14 @@ If you have a continuously running task, make sure to slice it into smaller chun
 ### Load
 
 You should target a page load in under 1000ms. Anything over, and your users start getting twitchy. This is a pretty difficult goal to reach on mobile devices as it relates to the page being interactive, not just having it painted. And realistically, it's even less:
+
 ![enter image description here](https://raw.githubusercontent.com/ivancuric/js-perf/master/1000ms.png)
+
+There's a 
 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzYwMDg3MV19
+eyJoaXN0b3J5IjpbNzM2NzI4NzU0XX0=
 -->
