@@ -107,7 +107,7 @@ What you can do however is to avoid using JS animation frameworks for everything
 
 Even though they may be using CSS transitions and compositing, they are still running in JS, on the main thread, and you need to make sure that all your JS will be done executing in <8ms per frame in order to keep the animations smooth.
 
-CSS animations and transitions on the other hand are running off the main thread if implemented
+CSS animations and transitions on the other hand are running off the main thread if implemented correctly
 
 
 
@@ -115,6 +115,6 @@ CSS animations and transitions on the other hand are running off the main thread
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMwMzk0OTQsMzUyMjM1NTkzLC03Nj
-k1MTU0Ml19
+eyJoaXN0b3J5IjpbLTE5MzQ2ODI4NSwzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
