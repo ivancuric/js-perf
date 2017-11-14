@@ -10,11 +10,11 @@ First of all, let's get the following out of the way. If you're testing exclusiv
 
 ![enter image description here](https://i.imgur.com/6XtNnds.png)
 
-No
+No, testing in dev
 And even if you are testing on real mobile devices, you're probably testing it on your brand spanking 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMTY5OTAyXX0=
+eyJoaXN0b3J5IjpbNzMzMTY2NzMyXX0=
 -->
