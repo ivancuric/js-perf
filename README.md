@@ -77,7 +77,7 @@ But what about the actual work that your code does aside from just booting up th
 
 Before you dive into optimizing your code consider what you are building. Are you building a framework or a VDOM library? Does your JavaScript need to do thousands of operations per second? Are you doing a time-critical library for handling user input and animations? If not, you may want to shift your focus somewhere else.
 
-It's not that writing performant code doesn't matter, but that it's usually irrelevant in the grand scheme of things, especially when considering microoptimiz
+It's not that writing performant code doesn't matter, but that it's usually irrelevant in the grand scheme of things, especially when considering microoptimizaition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDk5NzE5OV19
+eyJoaXN0b3J5IjpbOTgxNzcwNTQ5XX0=
 -->
