@@ -122,8 +122,8 @@ Now it's all about `npm install`-ing whatever shiny new toy you find on NPM, bun
 
 Try shipping less JS. You might not need [the entire lodash library](https://surma.github.io/underdash/) for your project. Do you absolutely _need_ to use a JS framework? If yes, have you considered using something other than React, such as [Preact](https://github.com/developit/preact) or [HyperHTML](https://viperhtml.js.org/), which are less than 1/20 the size of React? Do you need [TweenMax](https://greensock.com/tweenmax) for that scroll to top animation?
 
-When you are done pruning the weeds and shipping _les_
+When you are done pruning the weeds and shipping le
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTMxMjQ2OCwzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbMTg2OTE5MTEwNywzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
