@@ -93,6 +93,8 @@ That code first needs to be parsed, that is, read and turned into an computer-in
 
 Another _very_ important thing to mention is that JavaScript is single-threaded, and runs on the browser's main thread. Meaning that only one process can run at a time. If your dev tools performance timeline is filled with yellow peaks, running your CPU at 100%, you'll have long / dropped frames, janky scrolling and all other kind of nasty stuff.
 
+![enter image description here](https://aerotwist.com/static/blog/framework-boot/long-task.jpg)
+
 So there's all this work that needs to be done before your JS starts working. Parsing and compiling takes up to 50% of the total time of JS execution in Chrome's V8 engine.
 
 ![enter image description here](https://cdn-images-1.medium.com/max/2000/0*M94-AavlZjGoudZG.)
@@ -173,6 +175,6 @@ If the browser isn't able to evaluate an `async` function, we assume that it's a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzkwNjI0MiwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbLTIxMzEwODUyMjksMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
