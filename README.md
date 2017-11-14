@@ -148,8 +148,8 @@ It will strip out the runtime from all your other chunks into its own file, in t
 
 Then there's the topic of transpiled code and polyfills. If you are writing modern (ES6+) javascript, you're probably using babel to transpile it into ES5 compatible code. Transpiling not only increases file size due to all the verbosity, but also complexity and often has [performance regressions](https://github.com/babel/babel/pull/6748) compared to native ES6+ code.
 
-Along that, you are probably using the `babel-polyfill` package and `whatwg-fetch` 
+Along that, you are probably using the `babel-polyfill` package and `whatwg-fetch` to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNDY2OTQ0LDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbMTE4NDAxNDM4MywzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
