@@ -126,8 +126,8 @@ When you are done pruning the weeds and shipping less JS, try shipping it _smart
 
 Webpack 3 has _amazing_ features called [code splitting](https://webpack.js.org/guides/code-splitting/) and [dynamic imports](https://webpack.js.org/guides/code-splitting/#dynamic-imports). Instead of bundling all your JS modules into a monolithic `app.js` bundle, it can automatically split the code using the `import()` syntax.
 
-For example, if I have a bunch of code that only needs to be loaded on certain r
+For example, if I have a bunch of code that only needs to be loaded on certain pages
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTQyOTczNywzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbMzc3OTc0MDIxLDM1MjIzNTU5MywtNzY5NT
+E1NDJdfQ==
 -->
