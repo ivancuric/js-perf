@@ -122,7 +122,7 @@ Today it's all about bundles. Gone are the times of bower and dozens of `<script
 
 Now it's all about `npm install`-ing whatever shiny new toy you find on NPM, bundling them together with Webpack in a huge single 1mb JS file and hammering your users' browser to a crawl while capping off their data plans.
 
-Try shipping less JS. You might not need [the entire lodash library](https://surma.github.io/underdash/) for your project. Do you absolutely _need_ to use a JS framework? If yes, have you considered using something other than React, such as [Preact](https://github.com/developit/preact) or [HyperHTML](https://viperhtml.js.org/), which are less than 1/20 the size of React? Do you need [TweenMax](https://greensock.com/tweenmax) for that scroll to top animation? The convinience of npm and isolated components in frameworks come with a downside that devs' first response has become to throw 
+Try shipping less JS. You might not need [the entire lodash library](https://surma.github.io/underdash/) for your project. Do you absolutely _need_ to use a JS framework? If yes, have you considered using something other than React, such as [Preact](https://github.com/developit/preact) or [HyperHTML](https://viperhtml.js.org/), which are less than 1/20 the size of React? Do you need [TweenMax](https://greensock.com/tweenmax) for that scroll to top animation? The convinience of npm and isolated components in frameworks come with a downside that devs' first response to a problem has become to throw more JS at it. When all you have is a hammer, everything looks like a nail.
 
 When you are done pruning the weeds and shipping less JS, try shipping it _smarter_. Ship what you need, when you need it. 
 
@@ -173,12 +173,12 @@ If the browser isn't able to evaluate an `async` function, we assume that it's a
 
 ## Closing words
 
-What I would like you to take out from this article is that JS is expensive and should be used sparingly. It's often taken out of context, 
+What I would like you to take out from this article is that JS is expensive and should be used sparingly. Testing is often done 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So it takes a *lot* for me to get to this point. But seriously folks, time to throw out your frameworks and see how fast browser can be.</p>&mdash; Alex Russell (@slightlylate) <a href="https://twitter.com/slightlylate/status/776498573332451328?ref_src=twsrc%5Etfw">September 15, 2016</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Mjk2OTc0MywzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbMTk2Mzc0MzI0LDM1MjIzNTU5MywtNzY5NT
+E1NDJdfQ==
 -->
