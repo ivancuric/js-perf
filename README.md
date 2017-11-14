@@ -2,13 +2,13 @@
 
 Oh boy, this is a big one. Lots of stuff to cover, across a wide and wildly changing landscape. It's also a topic that covers everyone's favourite: The JS Framewok of the Month™. 
 
-I'll try to stick to the "Tools, not rules" mantra and keep the JS buzzwords to a minimum. Since I won't be able to cover everything related to JS performance in a 2000 word article, make sure you read the references and do your own research afterwards.
+I'll try to stick to the "Tools, not rules" mantra and keep the JS buzzwords to a minimum. Since I won't be able to cover everything related to JS performance in a 2000 word article (duh.), make sure you read the references and do your own research afterwards.
 
 But before we dive into specifics, let's dive a bit deeper and get a broader understanding of the issue by answering the following: What is considered as performant JavaScript and how does it fit into the broader scope web performance metrics?
 
 ## Setting the stage
 
-First of all, let's get the following out of the way; If you're testing exclusively on your desktop device, you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your  users.
+First of all, let's get the following out of the way; If you're testing exclusively on your desktop device, you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your users.
 
 ![enter image description here](https://i.imgur.com/6XtNnds.png)
 
@@ -83,5 +83,5 @@ It's not that writing performant code doesn't matter, but it usually makes littl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDIzMzY1MV19
+eyJoaXN0b3J5IjpbMzQ1Nzg3MDM3XX0=
 -->
