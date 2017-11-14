@@ -10,14 +10,14 @@ First of all, let's get the following out of the way. If you're testing exclusiv
 
 ![enter image description here](https://i.imgur.com/6XtNnds.png)
 
-This trend will only continue to grow, as the emerging market's preferred gateway to the web is a sub-100$ Android device. The era of the desktop as the main device to access the Internet is over.
+This trend will only continue to grow, as the emerging market's preferred gateway to the web is a sub-100$ Android device. The era of the desktop as the main device to access the Internet is over, and the next billion internet users will visit your sites primarily through a mobile device.
 
-Testing in Chrome dev tools' device mode isn't a valid substitute to testing on a real mobile device.
+Testing in Chrome dev tools' device mode isn't a valid substitute to testing on a real mobile device. Using CPU and network throttling helps, but it's a fundamentally different beast. Test on real devices.
 
 And even if you are testing on real mobile devices, you're probably testing it on your brand spanking 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTA0ODUwM119
+eyJoaXN0b3J5IjpbLTE3NzgyMzc3NzhdfQ==
 -->
