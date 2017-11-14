@@ -160,13 +160,13 @@ A dirty, but efficient way is to place the following in an inline script:
   try {
     new Function('async () => {}')();
   } catch (error) {
-    // lo;
+    // load ;
   }
 
   return true;
 })();
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MjE5NDQ0LDM1MjIzNTU5MywtNzY5NT
+eyJoaXN0b3J5IjpbLTU1NTczMjUxLDM1MjIzNTU5MywtNzY5NT
 E1NDJdfQ==
 -->
