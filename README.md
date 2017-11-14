@@ -122,7 +122,7 @@ Today it's all about bundles. Gone are the times of bower and dozens of `<script
 
 Now it's all about `npm install`-ing whatever shiny new toy you find on NPM, bundling them together with Webpack in a huge single 1mb JS file and hammering your users' browser to a crawl while capping off their data plans.
 
-Try shipping less JS. You might not need [the entire lodash library](https://surma.github.io/underdash/) for your project. Do you absolutely _need_ to use a JS framework? If yes, have you considered using something other than React, such as [Preact](https://github.com/developit/preact) or [HyperHTML](https://viperhtml.js.org/), which are less than 1/20 the size of React? Do you need [TweenMax](https://greensock.com/tweenmax) for that scroll to top animation?
+Try shipping less JS. You might not need [the entire lodash library](https://surma.github.io/underdash/) for your project. Do you absolutely _need_ to use a JS framework? If yes, have you considered using something other than React, such as [Preact](https://github.com/developit/preact) or [HyperHTML](https://viperhtml.js.org/), which are less than 1/20 the size of React? Do you need [TweenMax](https://greensock.com/tweenmax) for that scroll to top animation? The convinience of npm and framework components has 
 
 When you are done pruning the weeds and shipping less JS, try shipping it _smarter_. Ship what you need, when you need it. 
 
@@ -179,6 +179,6 @@ What I would like you to take out from this article is that JS is expensive and 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjE5MTIyLDM1MjIzNTU5MywtNzY5NT
+eyJoaXN0b3J5IjpbMTIzMDk0NzQ3LDM1MjIzNTU5MywtNzY5NT
 E1NDJdfQ==
 -->
