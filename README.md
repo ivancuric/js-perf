@@ -6,7 +6,7 @@ Let's start by answering the following: What is considered as performant JavaScr
 
 ## What is performant JS?
 
-First of all, let's get the following out of the way. If you're testing exclusively on your desktop device, you're developing for less than half 
+First of all, let's get the following out of the way. If you're focusing exclusively on your desktop device, you're excluding [more than 50%](http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet) of your potential users.
 
 ![enter image description here](https://i.imgur.com/6XtNnds.png)
 
@@ -14,5 +14,5 @@ First of all, let's get the following out of the way. If you're testing exclusiv
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjE5ODU4NF19
+eyJoaXN0b3J5IjpbLTI3NDQ1MjIwMF19
 -->
