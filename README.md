@@ -47,10 +47,12 @@ If you have a continuously running task, make sure to slice it into smaller chun
 
 ### Load
 
-You should target a page load in under 1000ms. This is a pretty difficult goal to reach on mobile devices as it relates to the page being interactive
+You should target a page load in under 1000ms. Anything over, and your users start getting twitchy. This is a pretty difficult goal to reach on mobile devices as it relates to the page being interactive, not just having it painted. And realistically, it's even less:
+![enter image description here](https://raw.githubusercontent.com/ivancuric/js-perf/master/1000ms.png)
+
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzA3MjU0MV19
+eyJoaXN0b3J5IjpbLTM1NzYwMDg3MV19
 -->
