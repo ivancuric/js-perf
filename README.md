@@ -51,11 +51,13 @@ You should target a page load in under 1000ms. Anything over, and your users sta
 
 ![enter image description here](https://raw.githubusercontent.com/ivancuric/js-perf/master/1000ms.png)
 
-Now that we know the metrics, let's have a look at the statistics:
+Now that we know the metrics, [let's have a look at the statistics](https://storage.googleapis.com/doubleclick-prod/documents/The_Need_for_Mobile_Speed_-_FINAL.pdf):
+
+
 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTIwODc5NzddfQ==
+eyJoaXN0b3J5IjpbMTAwODkwMDY4N119
 -->
