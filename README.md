@@ -154,8 +154,9 @@ The point is, you add almost 100 kilobytes to your JS bundle, which has not only
 
 There's no point in punishing people who are using modern browsers though. An approach I use, and which Philip Walton covered in [this article](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/) is to create two separate bundles and load them conditionally. Babel makes this easy with `babel-preset-env` these days. For instance, you have one bundle for supporting IE11, and the other without polyfills for the latest versions of modern browsers.
 
-A dirty, but efficient way is to place the following in an in
+A dirty, but efficient way is to place the following in an inline script:
+``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTczMzYyNSwzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbLTk3ODg0NjEwOCwzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
