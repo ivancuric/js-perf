@@ -24,7 +24,7 @@ Let's see how it stacks up when [parsing an average JS bundle](https://docs.goog
 
 Ouch.  While this image only covers the parse and compile time of the JS (more on that later) and not general performance, it's strongly correallated and can be treated as an indicator of general JS performance.
 
-To quote Bruce Lawson, it['s the World-Wide Web, not the Wealthy Western Web](https://vimeo.com/194968584). So, your target for web performance is a device that's **~25x slower** than your MacBook or iPhone. Let that sink in for a bit. But it gets worse.
+To quote Bruce Lawson, it['s the World-Wide Web, not the Wealthy Western Web](https://vimeo.com/194968584). So, your target for web performance is a device that's **~25x slower** than your MacBook or iPhone. Let that sink in for a bit. But it gets worse. Let's see what we're actually aiming for.
 
 
 ## What exactly is performant JS code?
@@ -83,5 +83,5 @@ It's not that writing performant code doesn't matter, but it usually makes littl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODgwNDc2ODNdfQ==
+eyJoaXN0b3J5IjpbLTc2OTUxNTQyXX0=
 -->
