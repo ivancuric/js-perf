@@ -120,8 +120,8 @@ Today it's all about bundles. Gone are the times of bower and dozens of `<script
 
 Now it's all about `npm install`-ing whatever shiny new toy you find on NPM, bundling them together with Webpack in a huge single 1mb JS file and hammering your users' browser to a crawl while capping off their data plans.
 
-Try shipping less JS. You might not need the entire 
+Try shipping less JS. You might not need the entire lodash library for you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjk4MTY5MywzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbMTQ3MTUxMTIwNSwzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
