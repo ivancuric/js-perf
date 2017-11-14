@@ -103,12 +103,12 @@ There are two things I want you to take away from this section.
 
 There are ways to mitigate this, such as using service workers to do jobs in the background and on another thread, using asm.js to write code that is more easily compiled to machine instructions, but that's a whole another topic.
 
-What you can do however is _not use _ a JS animation library 
+What you can do however is _not use_ a JS animation library 
 
 ## Bundle sizes are everything
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc2ODI4NzQsMzUyMjM1NTkzLC03Nj
-k1MTU0Ml19
+eyJoaXN0b3J5IjpbMTkwMDk3MjY2NCwzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
