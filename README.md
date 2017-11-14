@@ -20,10 +20,10 @@ Even if you are testing on real mobile devices, you're probably testing it on yo
 
 Ouch. While this image covers the parse and build time of the JS (more on that later) and not general performance, it's strongly correallated.
 
-So
+So, your target for web performance is a device that's ~25x slower thna
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg4NTY4NjBdfQ==
+eyJoaXN0b3J5IjpbMTQyNzQ2MzgxMV19
 -->
