@@ -14,7 +14,7 @@ This trend will only continue to grow, as the emerging market's preferred gatewa
 
 Testing in Chrome dev tools' device mode isn't a valid substitute to testing on a real mobile device. Using CPU and network throttling helps, but it's a fundamentally different beast. Test on real devices.
 
-Even if you are testing on real mobile devices, you're probably testing it on your brand spanking 600$ flagship phone. The thing is, that's not the device that your users have. The median device is something along the lines of a Moto G. Let's see how it stacks up.
+Even if you are testing on real mobile devices, you're probably testing it on your brand spanking 600$ flagship phone. The thing is, that's not the device that your users have. The median device is something along the lines of a Moto G. Let's see how it stacks up when [parsing an average JS bundle](https://docs.google.com/spreadsheets/d/1wHcNNQea28LhwQ_amFamT33d5woVrJfJy53Z1k6V090/edit?usp=sharing).
 
 ![enter image description here](https://rawgit.com/ivancuric/js-perf/master/Screen%20Shot%202017-11-14%20at%2015.58.55.png)
 
@@ -23,5 +23,5 @@ Ouch.
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDU2NzI5M119
+eyJoaXN0b3J5IjpbLTE0OTUzMTIzMF19
 -->
