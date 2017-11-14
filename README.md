@@ -89,7 +89,7 @@ JavaScript is not pre-compiled. It arrives (via a relatively slow network) as re
 
 That code first needs to be parsed, that is, read and turned into an computer-indexable structure that can be used for compiling. It then gets compiled into bytecode and finally machine code, before it can be executed by your device / browser.
 
-Another _very_ important thing to mention is that JavaScript is single-threaded. Meaning that only one p
+Another _very_ important thing to mention is that JavaScript is single-threaded, and runs on the browser's main thread. Meaning that only one process can run at a time.
 
 So there's all this work that needs to be done before your JS starts working. Parsing and compiling takes up to 50% of the total time of JS execution in Chrome's V8 engine.
 
@@ -101,6 +101,6 @@ There are two things I want you to take away from this section.
 
 There are ways to mitigate this, such as using service workers to do j
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDk3MDAzLDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbLTU5NjAwMjM0OCwzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
