@@ -20,10 +20,14 @@ Even if you are testing on real mobile devices, you're probably testing it on yo
 
 Ouch. While this image covers the parse and build time of the JS (more on that later) and not general performance, it's strongly correallated.
 
-So, your target for web performance is a device that's ~25x slower thna
+So, your target for web performance is a device that's **~25x slower** than your MacBook or iPhone. Let that sink in for a bit. But it gets worse.
+
+## What is performant JS code?
+
+
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzQ2MzgxMV19
+eyJoaXN0b3J5IjpbLTEwNTA1MzM3M119
 -->
