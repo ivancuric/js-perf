@@ -105,7 +105,7 @@ There are ways to mitigate this, such as using service workers to do jobs in the
 
 What you can do however is to avoid using JS animation frameworks for everything and [read up on what triggers paints and layouts](https://csstriggers.com/). Use the libraries only when there is absolutely no way to implement the animation using regular CSS transitions and animations.
 
-The reason is because animations are a _very_ 
+The reason is because animations are a _very_ timin
 
 
 
@@ -113,6 +113,6 @@ The reason is because animations are a _very_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjgxMjg2OCwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbMjY5MTI4OTQxLDM1MjIzNTU5MywtNzY5NT
+E1NDJdfQ==
 -->
