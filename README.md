@@ -39,10 +39,13 @@ If your app responds to a user action in under 100ms, the user percieves the res
 
 ### Animate
 
-On a 60Hz monitor, we want to target a constant 60 FPS mark when animating and scrolling. That results in ~16ms per frame. Out of that 16ms budget, you realistically have 8-10ms to do the JS work.
+On a 60Hz monitor, we want to target a constant 60 FPS mark when animating and scrolling. That results in around 16ms per frame. Out of that 16ms budget, you realistically have 8-10ms to do all the work, the rest is taken up by the browser internals and other variances.
+
+### Idle work
+
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYwMDMyNzFdfQ==
+eyJoaXN0b3J5IjpbNTc5Nzc0Mzc2XX0=
 -->
