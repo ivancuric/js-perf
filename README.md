@@ -167,8 +167,8 @@ A dirty, but efficient way is to place the following in an inline script:
 })();
 ```
 
-If the browser isn't able to evaluate an `async` function, we assume that it's an old browser and just ship the 
+If the browser isn't able to evaluate an `async` function, we assume that it's an old browser and just ship the huge and sl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3ODQ1OTUzLDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbLTE5NjEwNjgyOTIsMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
