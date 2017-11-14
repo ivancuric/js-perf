@@ -43,9 +43,10 @@ On a 60Hz monitor, we want to target a constant 60 FPS mark when animating and s
 
 ### Idle work
 
+If 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5Nzc0Mzc2XX0=
+eyJoaXN0b3J5IjpbMTQzODkyOTEzXX0=
 -->
