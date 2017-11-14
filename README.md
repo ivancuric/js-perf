@@ -160,13 +160,15 @@ A dirty, but efficient way is to place the following in an inline script:
   try {
     new Function('async () => {}')();
   } catch (error) {
-    // load ;
+    // create script tag pointing to legacy-bundle.js;
+    return;
   }
-
-  return true;
+  // create script tag pointing to modern-bundle.js;;
 })();
 ```
+
+If the browser isn't able to evaluate an `async` function, we assume that it's an old browser and j
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTczMjUxLDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbMTE3MTAyMjI4MiwzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
