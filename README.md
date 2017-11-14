@@ -24,10 +24,12 @@ So, your target for web performance is a device that's **~25x slower** than your
 
 ## What is performant JS code?
 
-Now that we know what our target platform is, we can answer the next question: what _is_ performant JS code? While there's no absolute classification of what defines performant code, we do have a user-centric performance model we can use as a reference: The RAIL model.
+Now that we know what our target platform is, we can answer the next question: what _is_ performant JS code? 
+
+While there's no absolute classification of what defines performant code, we do have a user-centric performance model we can use as a reference: [The RAIL model](https://developers.google.com/web/fundamentals/performance/rail).
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTgzNTY3OV19
+eyJoaXN0b3J5IjpbMTg5MDYyMzkxMF19
 -->
