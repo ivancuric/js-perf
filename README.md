@@ -94,8 +94,9 @@ So there's all this work that needs to be done before your JS starts working. Pa
 ![enter image description here](https://cdn-images-1.medium.com/max/2000/0*M94-AavlZjGoudZG.)
 
 There are two things I want you to take away from this section.
-One: 
+1. While not neccessarily linearly, JS parse time scales with the bundle size. The less JS you ship
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNzA3NTE3LDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbOTE4OTU1NzMsMzUyMjM1NTkzLC03Njk1MT
+U0Ml19
 -->
