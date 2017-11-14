@@ -47,10 +47,10 @@ If you have a continuously running task, make sure to slice it into smaller chun
 
 ### Load
 
-You should target 
+You should target a page load in under 1000ms. This is a pret
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDYwMzY2NF19
+eyJoaXN0b3J5IjpbMzAyMjY0OTc0XX0=
 -->
