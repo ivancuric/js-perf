@@ -35,10 +35,10 @@ While there's no absolute classification of what defines performant code, we do 
 
 ### Respond
 
-If your app responds in 100ms
+If your app responds in 100ms, the user perc
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDM4NjgzXX0=
+eyJoaXN0b3J5IjpbLTEyMzk1MzM3MzNdfQ==
 -->
