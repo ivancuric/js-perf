@@ -81,8 +81,8 @@ It's not that writing performant code doesn't matter, but it usually makes littl
 
 ## Parsing, compiling and executing
 
-Fundamentally, the problem of performant JS is mostly a problem of 
+Fundamentally, the problem of most non-performant JS is not running the code itself, but all the steps that have to be taken _be
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5OTk0OTU0LDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbLTIwMTE2MTk0MDcsMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
