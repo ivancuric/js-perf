@@ -146,8 +146,8 @@ It will strip out the runtime from all your other chunks into its own file, in t
 <script src="main-bundle.js">
 ```
 
-Then there's the topic of transpiled code and polyfills. If you are writing modern javascript, you're probably using babel to transpile it into ES5 compatible code, which
+Then there's the topic of transpiled code and polyfills. If you are writing modern javascript, you're probably using babel to transpile it into ES5 compatible code, which not only ad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDM5OTYzOTIsMzUyMjM1NTkzLC03Nj
-k1MTU0Ml19
+eyJoaXN0b3J5IjpbMTA1NDA2NDA0NiwzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
