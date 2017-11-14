@@ -24,10 +24,10 @@ So, your target for web performance is a device that's **~25x slower** than your
 
 ## What is performant JS code?
 
-Now that we know what our target platform is, we can answer the next question: what _is_ performant JS code? 
+Now that we know what our target platform is, we can answer the next question: what _is_ performant JS code? Wh
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDc1OTQyOF19
+eyJoaXN0b3J5IjpbLTE2MzE4MTg4OTldfQ==
 -->
