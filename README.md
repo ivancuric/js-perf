@@ -120,8 +120,8 @@ Today it's all about bundles. Gone are the times of bower and dozens of `<script
 
 Now it's all about `npm install`-ing whatever shiny new toy you find on NPM, bundling them together with Webpack in a huge single 1mb JS file and hammering your users' browser to a crawl while capping off their data plans.
 
-You don't need a 
+But now, let's get on top
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0OTg0MjUzLDM1MjIzNTU5MywtNzY5NT
+eyJoaXN0b3J5IjpbNjM2NjQ3OTg3LDM1MjIzNTU5MywtNzY5NT
 E1NDJdfQ==
 -->
