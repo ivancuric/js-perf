@@ -71,7 +71,7 @@ Feeling sufficiently frustrated? Good. Let's get to work and fix the web. ✊
 
 ## Context is everything 
 
-You might have noticed that the bottleneck is JavaScript download, parse and load time. There's no way around it but to load les
+You might have noticed that the bottleneck is JavaScript download, parse and load time. There's no way around it but to load less 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mzg1OTgyMl19
+eyJoaXN0b3J5IjpbMTk4OTcxOTQ2MV19
 -->
