@@ -118,8 +118,8 @@ The [Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_An
 
 Today it's all about bundles. Gone are the times of bower and dozens of `<script>` tags behind the closing `</body>` tag.
 
-Now it's all about `npm install`-ing whatever shiny new 
+Now it's all about `npm install`-ing whatever shiny new toy you find on NPM, bundling them together with Webpack in a huge single 1mb JS file and hammering your users' browser to a crawl.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjA1NTkxOSwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbLTEyNzQ5MTI1OTcsMzUyMjM1NTkzLC03Nj
+k1MTU0Ml19
 -->
