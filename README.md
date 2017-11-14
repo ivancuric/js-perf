@@ -73,7 +73,7 @@ Feeling sufficiently frustrated? Good. Let's get to work and fix the web. ✊
 
 You might have noticed that the main bottleneck is JavaScript download, parse and load time. There's no way around it but to load less JavaScript and load smarter.
 
-But what about the actual work that your code does aside from just booting up the website? There has to be some performance gains there, right? Before you dive into optimizing your code consider what you are building. Are you building a framework or a VDOM library? Does your JavaScript need to do thousands of operations per second? Are you doing a
+But what about the actual work that your code does aside from just booting up the website? There has to be some performance gains there, right? Before you dive into optimizing your code consider what you are building. Are you building a framework or a VDOM library? Does your JavaScript need to do thousands of operations per second? Are you doing a time-critical 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0Njc4ODU3XX0=
+eyJoaXN0b3J5IjpbMTE5OTc4MTAwMl19
 -->
