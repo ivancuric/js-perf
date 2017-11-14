@@ -116,8 +116,8 @@ The [Web Animations API](https://developer.mozilla.org/en-US/docs/Web/API/Web_An
 
 ## Bundle sizes are everything
 
-Today it's all about bundles. Gone are the times of bower and dozens of `<script>` behind the closing </bo
+Today it's all about bundles. Gone are the times of bower and dozens of `<script>` behind the closing `</body>`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzAzNTM1MjIsMzUyMjM1NTkzLC03Nj
+eyJoaXN0b3J5IjpbLTEyNzc4MzI2MjUsMzUyMjM1NTkzLC03Nj
 k1MTU0Ml19
 -->
