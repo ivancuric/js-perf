@@ -148,8 +148,10 @@ It will strip out the runtime from all your other chunks into its own file, in t
 
 Then there's the topic of transpiled code and polyfills. If you are writing modern (ES6+) javascript, you're probably using babel to transpile it into ES5 compatible code. Transpiling not only increases file size due to all the verbosity, but also complexity and often has [performance regressions](https://github.com/babel/babel/pull/6748) compared to native ES6+ code.
 
-Along that, you are probably using the `babel-polyfill` package and `whatwg-fetch` to patch up missing features in older browsers. Then, if you're writing code using `async/await`, you also need to include the `regenerator-runtime`
+Along that, you are probably using the `babel-polyfill` package and `whatwg-fetch` to patch up missing features in older browsers. Then, if you're writing code using `async/await`, you also transpile it using generators need to include the `regenerator-runtime`...
+
+The point is, you add almost 100 kilobytes to your JS bundle, w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTI1MTE0NSwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbLTg5OTczOTgwLDM1MjIzNTU5MywtNzY5NT
+E1NDJdfQ==
 -->
