@@ -1,6 +1,8 @@
 # Shipping performant JS code to production
 
-Oh boy, this is a big one. Lots of stuff to cover, across a wide and wildly changing landscape. It's also a topic that covers everyone's favourite: The JS Framewok of the Month™.  I'll try to stick to the "Tools, not rules" mantra and keep the JS buzzwords to a minimum. I definetly won't be able to cover everything in a 2000 word article, 
+Oh boy, this is a big one. Lots of stuff to cover, across a wide and wildly changing landscape. It's also a topic that covers everyone's favourite: The JS Framewok of the Month™. 
+
+I'll try to stick to the "Tools, not rules" mantra and keep the JS buzzwords to a minimum. Since I won't be able to cover everything related to JS performance in a 2000 word article, make sure you read the references and do your own research afterwards.
 
 But before we dive into specifics, let's dive a bit deeper and get a broader understanding of the issue by answering the following: What is considered as performant JavaScript and how does it fit into the broader scope web performance metrics?
 
@@ -72,5 +74,5 @@ Feeling depressed? Angry? Good. Let's get to work.
 
 You might have noticed that the bottleneck is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzgyNDcyMV19
+eyJoaXN0b3J5IjpbMTM1NjUzMjQ0Nl19
 -->
