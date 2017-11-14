@@ -173,8 +173,8 @@ If the browser isn't able to evaluate an `async` function, we assume that it's a
 
 ## Closing words
 
-
+JS performance isn't an afterthought
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzEwODUyMjksMzUyMjM1NTkzLC03Nj
+eyJoaXN0b3J5IjpbLTE2NTMwNDA5NjcsMzUyMjM1NTkzLC03Nj
 k1MTU0Ml19
 -->
