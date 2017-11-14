@@ -83,8 +83,8 @@ It's not that writing performant code doesn't matter, but it usually makes littl
 
 Fundamentally, the problem of most non-performant JS is not running the code itself, but all the steps that have to be taken _before_ the code even starts executing.
 
-We're talking about levels of abstraction here. The CPU in your computer runs machine code. Most programs you are running... Actually, Electron these days... hmmm... For the sake of argument, let's say that most of the code you're r
+We're talking about levels of abstraction here. The CPU in your computer runs machine code. Most programs you are running... Actually, Electron these days... hmmm... For the sake of argument, let's say that most of the code you're running on your comput
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY2NzUxODgsMzUyMjM1NTkzLC03Nj
+eyJoaXN0b3J5IjpbLTExNzQxODA3NDEsMzUyMjM1NTkzLC03Nj
 k1MTU0Ml19
 -->
