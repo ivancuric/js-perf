@@ -105,7 +105,7 @@ There are ways to mitigate this, such as using service workers to do jobs in the
 
 What you can do however is to avoid using JS animation frameworks for everything and [read up on what triggers paints and layouts](https://csstriggers.com/). Use the libraries only when there is absolutely no way to implement the animation using regular CSS transitions and animations.
 
-Animations are extremely se
+Even though they may be using CSS transitions and compositing, they are still running in JS, on the main thread, and 
 
 
 
@@ -113,6 +113,6 @@ Animations are extremely se
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MDY2MjYzLDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbMTgxNDQxNTM2OSwzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
