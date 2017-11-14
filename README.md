@@ -87,10 +87,10 @@ We're talking about levels of abstraction here. The CPU in your computer runs ma
 
 JavaScript is not pre-compiled. It arrives as readable code in your browser which is, for all intents and purposes, the "OS" for your JS program.
 
-That code first needs to be parsed — read and turned into an computer-indexable structure.
+That code first needs to be parsed — read and turned into an computer-indexable structure that can be used for compiling.
 
-It then gets compiled into 
+It then gets compiled into bytecode and finally machine code, before it can be executed by your
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMDYwNTk4LDM1MjIzNTU5MywtNzY5NT
-E1NDJdfQ==
+eyJoaXN0b3J5IjpbMTQwODcxOTk4NywzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
