@@ -105,11 +105,11 @@ There are ways to mitigate this, such as using service workers to do jobs in the
 
 What you can do however is to avoid using JS animation frameworks for everything and [read up on what triggers paints and layouts](https://csstriggers.com/). Use the libraries only when there is absolutely no way to implement the animation using regular CSS transitions and animations.
 
-Even though they may be using CSS transitions, composited properties and `requestAnimationFrame()`, they are still running in JS, on the main thread. They're basically just hammering your DOM with inline styles every 16ms. You need to make sure that all your JS will be done executing in <8ms per frame in order to keep the animations smooth.
+Even though they may be using CSS transitions, composited properties and `requestAnimationFrame()`, they are still running in JS, on the main thread. They're basically just hammering your DOM with inline styles every 16ms, since there's not much else they can do. You need to make sure that all your JS will be done executing in <8ms per frame in order to keep the animations smooth.
 
 CSS animations and transitions on the other hand are running off the main thread — on the GPU if implemented performantly, without causing relayouts/reflows.
 
-Considering that most animations are running either during loading or user interaction, this can give your web apps the much-needed room to breathe.
+Considering that most animations are running either during loading or user interaction, this can give your web apps the much-needed room to breathe. If possible, use 
 
 
 
@@ -117,6 +117,6 @@ Considering that most animations are running either during loading or user inter
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjMwMjYxNiwzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbLTI5MTMxMjU0OSwzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
