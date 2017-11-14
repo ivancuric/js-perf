@@ -140,8 +140,8 @@ new webpack.optimize.CommonsChunkPlugin({
   name: 'runtime',
 }),
 ```
-It will strip out the runtime from all your J
+It will strip out the runtime from all your other chuns
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDAzNDcyMiwzNTIyMzU1OTMsLTc2OT
-UxNTQyXX0=
+eyJoaXN0b3J5IjpbNzk0ODQ4NjE1LDM1MjIzNTU5MywtNzY5NT
+E1NDJdfQ==
 -->
