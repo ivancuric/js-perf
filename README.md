@@ -1,5 +1,7 @@
-# js-perf
-Shipping performant JS code to production
+# Shipping performant JS code to production
+
+## Context is everything 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMzODE4MjddfQ==
+eyJoaXN0b3J5IjpbLTEzNTYzNjEyODRdfQ==
 -->
