@@ -61,6 +61,10 @@ Now that we know the metrics, [let's have a look at some of the statistics](http
 
 [And a bit more](https://medium.com/reloading/javascript-start-up-performance-69200f43b201):
 
+- Apps became interactive in 8 seconds on desktop (using cable) and 16 seconds on mobile (Moto G4 over 3G)
+- At the median, developers shipped 410KB of gzipped JS for their pages
+- 
+
 Feeling depressed? Angry? Good. Let's get to work.
 
 
@@ -69,5 +73,5 @@ Feeling depressed? Angry? Good. Let's get to work.
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg3ODg2Nl19
+eyJoaXN0b3J5IjpbLTE2NTQ0MDIxNzhdfQ==
 -->
