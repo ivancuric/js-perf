@@ -146,7 +146,8 @@ It will strip out the runtime from all your other chunks into its own file, in t
 <script src="main-bundle.js">
 ```
 
+Then th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ0ODY1MDUsMzUyMjM1NTkzLC03Nj
+eyJoaXN0b3J5IjpbLTE3OTQ3ODY0NzIsMzUyMjM1NTkzLC03Nj
 k1MTU0Ml19
 -->
