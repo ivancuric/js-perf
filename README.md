@@ -95,8 +95,10 @@ So there's all this work that needs to be done before your JS starts working. Pa
 
 There are two things I want you to take away from this section.
 1. While not neccessarily linearly, JS parse time scales with the bundle size. The less JS you ship, the better.
-2. Every JS framework you use is another level of abstraction (unless it's a precompiled one, like [Svelte](https://github.com/sveltejs/svelte)). Not only will it 
+2. Every JS framework you use is another level of abstraction (unless it's a precompiled one, like [Svelte](https://github.com/sveltejs/svelte)). Not only will it increase your bundle size, but also slow down your code.
+
+There are ways to mitigate this, such as 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTA5MTU4MCwzNTIyMzU1OTMsLTc2OT
+eyJoaXN0b3J5IjpbMTg4MzM2Mzg1MSwzNTIyMzU1OTMsLTc2OT
 UxNTQyXX0=
 -->
