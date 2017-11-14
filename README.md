@@ -39,10 +39,10 @@ If your app responds to a user action in under 100ms, the user percieves the res
 
 ### Animate
 
-On a 60Hz monitor, we want to target the 60 FPS mark when animating and sc
+On a 60Hz monitor, we want to target the 60 FPS mark when animating and scrolling to 
 
 ## Context is everything 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2NDI5MzFdfQ==
+eyJoaXN0b3J5IjpbLTIwMTg4MTE1MjFdfQ==
 -->
