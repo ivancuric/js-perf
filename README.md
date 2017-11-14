@@ -124,8 +124,10 @@ Try shipping less JS. You might not need [the entire lodash library](https://sur
 
 When you are done pruning the weeds and shipping less JS, try shipping it _smarter_. Ship what you need, when you need it. 
 
-Webpack 3 has _amazing_ features called [code splitting](https://webpack.js.org/guides/code-splitting/) and [dynamic imports](https://webpack.js.org/guides/code-splitting/#dynamic-imports). Instead of bundling all your JS modules into a monolithic `app.js` bundle, you can 
+Webpack 3 has _amazing_ features called [code splitting](https://webpack.js.org/guides/code-splitting/) and [dynamic imports](https://webpack.js.org/guides/code-splitting/#dynamic-imports). Instead of bundling all your JS modules into a monolithic `app.js` bundle, it can automatically split the code using the `import()` syntax.
+
+For example, if I have a bunch of code that only needs to be loaded on certain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI0MDYzMDQsMzUyMjM1NTkzLC03Nj
-k1MTU0Ml19
+eyJoaXN0b3J5IjpbLTY0NTQwMTIzOSwzNTIyMzU1OTMsLTc2OT
+UxNTQyXX0=
 -->
